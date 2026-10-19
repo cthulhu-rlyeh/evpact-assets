@@ -10,7 +10,7 @@ Public web artwork for **Eventide Compact / EVPACT**, a Star Citizen organizatio
 |---|---|---|
 | [Industry divider](branding/v1/divider-industry.jpg) | 730 × 122 | History |
 | [Horizon divider](branding/v1/divider-horizon.jpg) | 730 × 122 | Manifesto |
-| [Ironclad action artwork](branding/v1/ironclad-action.jpg) | 730 × 243 | Charter / mutual protection |
+| [Ironclad action artwork](branding/v1/ironclad-action.jpg) | 730 × 243 | Manifesto / fleet and mutual protection |
 | [Captains Wanted poster](branding/v1/captains-wanted.jpg) | 600 × 900 | Recruitment |
 
 Artwork prepared October 19, 2026 with AI image generation and image resizing. Ships and installations are illustrative; the artwork does not verify specific ship models, loadouts, weapons, or game capabilities.
